@@ -1,0 +1,20 @@
+h1 {
+    font-family: 'Akaya Telivigala', cursive;
+
+}
+
+h2 {
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+p {
+    font-family: 'Cabin', sans-serif;
+}
+
+
+body {
+    font-size: 25px;
+    text-align: center;
+    background-image: url(8a3ca1089e86d2c55e24790632291867.jpg);
+    color: white;
+}
